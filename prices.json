@@ -1,1 +1,6 @@
-{}
+{
+  "owner": 150000,
+  "moderator": 100000,
+  "partner": 75000,
+  "reseller": 50000
+}

@@ -1,0 +1,8 @@
+{
+  "warnings": [],
+  "mutes": [],
+  "config": {
+    "antiSpamEnabled": true,
+    "antiPromosiEnabled": false
+  }
+}

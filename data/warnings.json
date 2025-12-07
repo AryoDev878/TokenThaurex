@@ -4,15 +4,16 @@
       "userId": "8207382401",
       "chatId": "-1003460372649",
       "count": 5,
-      "lastViolation": 1765074643433,
+      "lastViolation": 1765074644221,
       "timestamps": [
-        1765074643433
+        1765074643433,
+        1765074644221
       ]
     }
   ],
   "mutes": [],
   "config": {
     "antiSpamEnabled": true,
-    "antiPromosiEnabled": false
+    "antiPromosiEnabled": true
   }
 }
